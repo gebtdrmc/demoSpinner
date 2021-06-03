@@ -2,6 +2,6 @@
     <string name="app_name">Demo Spinner Test</string>
     <string-array name="spinnerItems">
         <item>Yes</item>
-        <item></item>
+        <item>No</item>
     </string-array>
 </resources>
